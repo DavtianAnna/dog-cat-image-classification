@@ -14,7 +14,7 @@ The project is implemented using **Python**, **Keras**, and standard ML utilitie
 
 ## 📂 Dataset
 - Dataset includes labeled images of **dogs** and **cats**.  
-- Preprocessed to **grayscale (48x48)**.  
+- Preprocessed to **grayscale (512x512)**.  
 - Split into **training** and **testing** sets.  
 
 ---
