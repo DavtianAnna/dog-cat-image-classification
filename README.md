@@ -44,6 +44,6 @@ The project is implemented using **Python**, **Keras**, and standard ML utilitie
 
 ### Installation
 ```bash
-git clone https://github.com/<username>/dog-cat-image-classification.git
+git clone https://github.com/<DavtianAnna>/dog-cat-image-classification.git
 cd dog-cat-image-classification
 pip install -r requirements.txt
